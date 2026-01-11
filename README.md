@@ -121,3 +121,11 @@ I **cut bugs cleanly**.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0F2027&height=80&section=footer"/>
 </p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output/pacman-contribution-graph.svg">
+</picture>
