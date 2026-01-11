@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋 I'm Faraz</h1>
+<h1 align="center">Hi 👋 I'm Faraz Ali Ahmad</h1>
+
+
+###
+<p align="center">I am Full Stack Developer and Software Engineer</p>
 
 ###
 
-<p align="center">I'm a Software Engineer and Full Stack Developer</p>
+###
+<h2 align="left">About me</h2>
+<p align="left">I am currently working at Morvion as <strong>Software Engineer</strong> <br> Before Joining Morvion I was <strong>Full Stack Developer</strong> and <strong>Founding Engineer</strong> at AaoMates.com</p>
 
 ###
-
+<h2 align="center">Technical Stack</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="13" />
@@ -84,6 +90,7 @@
 
 ###
 
+<h2 align="center">Connect Me Here</h2>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
