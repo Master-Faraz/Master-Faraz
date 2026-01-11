@@ -34,23 +34,22 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Master-Faraz&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Master-Faraz&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=master-faraz&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌆 3D Contribution Island
+## 🌆 3D Contribution Graph
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" />
 </p>
 
----
+## 🐍 Contribution Snake
 
-## 🐍 Devil Fruit Snake (Auto Animated)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 🧭 Find Me Across the Seas
@@ -76,14 +75,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer"/>
 </p>
 
-## 🌆 3D Contribution Graph
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output/github-contribution-grid-snake-dark.svg" />
-</p>
