@@ -6,7 +6,7 @@
 <h1 align="center">⚔️ FARAZ ALI</h1>
 
 <p align="center">
-  <strong>Swordsman of Software • Founder • Silent Builder</strong>
+  <strong>Software Engineer • Full Stack Developer • Silent Builder</strong>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ I **cut bugs cleanly**.
 |------|-----------|-------------|
 | **Wado Ichimonji** | Purity | Clean Architecture, Types, Tests |
 | **Sandai Kitetsu** | Risk | Performance, Systems, Scaling |
-| **Yubashiri** | Flow | DX, Tooling, Automation |
+| **Enma** | Flow | DX, Tooling, Automation |
 
 ---
 
@@ -52,17 +52,12 @@ I **cut bugs cleanly**.
 
 **Frontend**
 ██████████████░░░░ 85%
+
 **Backend**
 ████████████████░░ 90%
 
-markdown
-Copy code
-
 **System Design**
 ███████████████░░░ 88%
-
-markdown
-Copy code
 
 **Discipline**
 ██████████████████ 100%
