@@ -1,137 +1,101 @@
-<h1 align="center">Hi 👋, I'm Faraz Ali Ahmad</h1>
+<div align="center">
+
+# Hi, I'm Faraz Ali Ahmad
+
+### Software Engineer · Full-Stack Developer
+
+I build web applications, backend systems, and AI-powered tools from user interfaces and APIs to the infrastructure behind them.
+
+[![Portfolio](./assets/badges/portfolio.svg)](https://www.buildwithfaraz.com/)
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/master-faraz/)
+[![X](./assets/badges/x.svg)](https://x.com/Faraz89729307)
+[![Medium](./assets/badges/medium.svg)](https://medium.com/@farazali9028)
+[![Dev.to](./assets/badges/devto.svg)](https://dev.to/faraz_ali)
+[![Email](./assets/badges/email.svg)](mailto:farazali9028@gmail.com)
+
+</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center"><em>A selection of the core technologies I work with. Explore my complete skillset on <strong><a href="https://www.buildwithfaraz.com/#skills">buildwithfaraz.com</a></strong>.</em></p>
+
+<br/>
+
+<div align="center">
+
+<table width="100%" align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <strong>Languages</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts,js,python" alt="TypeScript, JavaScript, Python" />
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <strong>Frontend</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="React, Next.js, Vite, Tailwind CSS" />
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <strong>Backend & APIs</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" alt="Node.js, NestJS, Express, FastAPI" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <strong>Databases</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" alt="PostgreSQL, MongoDB, Redis, MySQL" />
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <strong>AI & LLMs</strong>
+      <br/><br/>
+      <img src="./assets/ai-stack.svg" alt="LangChain, LangGraph, RAG, LLMs" />
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <strong>DevOps & Cloud</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux" alt="Docker, AWS, GitHub Actions, Linux" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">📊 GitHub Activity Overview</h2>
 
 <p align="center">
-  <strong>Full Stack Developer • Software Engineer</strong>
-</p>
-
-<p align="center">
-  I design, build, and scale reliable web systems using modern technologies.
+  <img src="https://streak-stats.demolab.com?user=master-faraz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output-pacman/pacman-contribution-graph-dark.svg"
-    width="100%"
-    alt="Pacman contribution graph" />
-</p>
----
-
-## 👨‍💻 About Me
-
-- 💼 Software Engineer at **Morvion**
-- 🚀 Former **Full Stack Developer & Founding Engineer** at **AaoMates.com**
-- 🧠 Focused on scalable systems, clean architecture, and developer-first products
-- 🌱 Continuously learning systems, performance, and product engineering
-
----
-
-## 🧰 Technical Skills
-
-### Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" style="margin:8px"/>
-  <img src="https://skillicons.dev/icons?i=py" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="42" style="margin:8px"/>
-</p>
-
-<p align="center">&nbsp;</p>
-
-### Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" style="margin:8px"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="42" style="margin:8px"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42" style="margin:8px"/>
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="42" style="margin:8px"/>
-  <img src="https://cdn.simpleicons.org/threedotjs/000000" height="42" style="margin:8px"/>
-</p>
-
-<p align="center">&nbsp;</p>
-
-### Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" style="margin:8px"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" style="margin:8px"/>
-</p>
-
-<p align="center">&nbsp;</p>
-
-### Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="42" style="margin:8px"/>
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="42" style="margin:8px"/>
-</p>
-
-<p align="center">&nbsp;</p>
-
-### DevOps & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="42" style="margin:8px"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="42" style="margin:8px"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="42" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" style="margin:8px"/>
-</p>
-
-## 📊 GitHub Activity
+<h2 align="center">🎮 Pac-Man Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=master-faraz&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output-pacman/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output-pacman/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
 </p>
 
----
 
-## 🧩 Contribution Overview
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Master-Faraz&theme=dracula&area=true" />
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Master-Faraz/Master-Faraz/output-snake/github-contribution-grid-snake-dark.svg"
-    alt="Snake contribution graph" />
-</p>
-
----
-
-## 📡 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/master-faraz/">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge"  alt="linkedin logo"  />
-  </a>
-  <a href="mailto:farazali9028@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://discord.com/users/701695039398740008">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord"/>
-  </a>
-  <a href="https://x.com/Faraz89729307">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>Building things that last.</em>
-</p>
